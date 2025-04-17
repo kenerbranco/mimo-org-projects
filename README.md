@@ -1,4 +1,4 @@
-# mimo-org-projets
+# mimo-org-projects
 Projetos desenvolvidos na plataforma "mimo.org".
 
 Carreiras e Cursos:
