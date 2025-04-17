@@ -1,0 +1,28 @@
+h1 {
+  font-size: 18px;
+  border: 2px solid white;
+  text-align: center;
+  width: 280px;
+  margin: auto;
+  border-radius: 5px;
+}
+
+body {
+  background-color: slateblue;
+  font-family: Trebuchet MS;
+  color: white;
+  text-align: center;
+}
+
+input {
+  margin: 15px;
+}
+
+select {
+  border-radius: 5px;
+}
+
+button {
+  border-radius: 5px;
+  margin: 20px;
+}
