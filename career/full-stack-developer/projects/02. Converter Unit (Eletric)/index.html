@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Conversor de Potência</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Conversor de Potência</h1>
+    <label for="numberInput">Valor: <input type="number" id="numberInput" name="numberInput" placeholder="Digite um valor" autofocus required/></label>
+    <br>
+    <label for="">Selecione: 
+     <select name="selectConverter">
+      <option value="CV-to-W">Cavalo Vapor (CV) para Watt (W)</option>
+      <option value="HP-to-W">Horse Power (HP) para Watt (W)</option>
+      <option value="W-to-CV">Watt (W) para Cavalo Vapor (CV)</option>
+      <option value="W-to-HP">Watt (W) para Horse Power (HP)</option>
+     </select>
+    </label>
+    <br>
+    <button name="buttonConverter" onclick="solve()">Calcular</button>
+    <br>
+    <p></p>
+    <script src="script.js"></script>
+  </body>
+</html>
