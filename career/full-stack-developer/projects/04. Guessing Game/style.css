@@ -1,0 +1,39 @@
+body {
+  background-color: yellow;
+  font-family: "Quicksand", sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: white;
+  border-radius: 15px;
+  height: 250px;
+  padding: 20px;
+}
+
+input {
+  width: 50%;
+  height: 20px;
+  margin: auto;
+}
+
+button {
+  width: 40%;
+  height: 30px;
+  margin: auto;
+  border-radius: 5px;
+  color: white;
+  background-color: blue;
+  border: solid 1px black;
+}
+
+button:hover {
+  border: solid 2px white;
+}
+
+#answerDisplay {
+  color: red;
+  font-size: 12px;
+}
