@@ -1,14 +1,20 @@
-# mimo-org-projects
+# :computer: mimo-org-projects
 Projetos desenvolvidos na plataforma "mimo.org".
 
-Carreiras e Cursos:
+## :mortar_board: Carreiras e Cursos:
 
-Career Paths
-- Full-Stack Developer (cursando);
-- Front-End Developer;
-- Back-End Developer;
+### Career Paths
+- Full-Stack Developer (:memo: Andamento);
+- Front-End Developer (:memo: Andamento);
+- Back-End Developer (:memo: Andamento);
 - Python Developer.
 
-Courses
+### Courses
+- HTML (:memo: Andamento);
+- CSS (:memo: Andamento);
+- JavaScript (:memo: Andamento);
 - React;
-- TypeScript.
+- TypeScript;
+- SQL;
+- Python;
+- Swift.
