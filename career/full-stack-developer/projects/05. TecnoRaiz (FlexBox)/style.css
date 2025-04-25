@@ -1,0 +1,10 @@
+* {
+  border: solid 1px black;
+}
+
+.container-head-contact {
+  font-size: 12px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
