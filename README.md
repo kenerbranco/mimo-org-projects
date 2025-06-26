@@ -10,9 +10,9 @@ Projetos desenvolvidos na plataforma "mimo.org".
 - Python Developer.
 
 ### Courses
-- HTML :memo: (Andamento);
-- CSS :memo: (Andamento);
-- JavaScript :memo: (Andamento);
+- HTML ✅ (Concluído);
+- CSS ✅ (Concluído);
+- JavaScript ✅ (Concluído);
 - React;
 - TypeScript;
 - SQL;
